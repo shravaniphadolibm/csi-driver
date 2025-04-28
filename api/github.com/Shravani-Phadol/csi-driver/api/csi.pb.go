@@ -24,7 +24,7 @@ var File_csi_proto protoreflect.FileDescriptor
 
 const file_csi_proto_rawDesc = "" +
 	"\n" +
-	"\tcsi.proto\x12\x03csiB/Z-github.com/Shravani-Phadol/csi-driver/api;apib\x06proto3"
+	"\tcsi.proto\x12\x03csiB/Z-github.com/shravaniphadolibm/csi-driver/api;apib\x06proto3"
 
 var file_csi_proto_goTypes = []any{}
 var file_csi_proto_depIdxs = []int32{
