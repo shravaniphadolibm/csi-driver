@@ -6,8 +6,10 @@ import (
 	"net"
 	"os"
 
-	csipb "github.com/Shravani-Phadol/csi-driver/api"
-	"github.com/Shravani-Phadol/csi-driver/driver"
+	csipb "github.com/shravaniphadolibm/csi-driver/api"
+	//csipb "github.com/shravaniphadolibm/csi-driver/tree/main/api"
+
+	"github.com/shravaniphadolibm/csi-driver/driver"
 	"google.golang.org/grpc"
 )
 
