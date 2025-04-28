@@ -1,0 +1,3 @@
+syntax = "proto3";
+package csi;
+option go_package="github.com/Shravani-Phadol/csi-driver/api;api";
