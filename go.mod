@@ -1,5 +1,6 @@
 module github.com/shravaniphadolibm/csi-driver
 
+<<<<<<< HEAD
 go 1.23
 
 toolchain go1.23.8
@@ -13,3 +14,8 @@ require (
 	google.golang.org/grpc v1.72.0 // indirect
 	google.golang.org/protobuf v1.36.5 // indirect
 )
+=======
+go 1.22.12
+
+require github.com/container-storage-interface/spec v1.7.0 // indirect
+>>>>>>> ba3c35e (Initial commit - CSI driver skeleton)
